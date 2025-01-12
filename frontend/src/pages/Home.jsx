@@ -5,6 +5,8 @@ const Home = () => {
     <div style={styles.container}>
       <h1> second-semester-first-project </h1> <br />
         <h2> AIoT Team Page </h2>
+
+        <img src="%PUBLIC_URL%/favicon.ico" alt="chicken_image" />
     </div>
   );
 };
