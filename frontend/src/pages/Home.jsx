@@ -6,7 +6,7 @@ const Home = () => {
       <h1> second-semester-first-project </h1> <br />
         <h2> AIoT Team Page </h2>
 
-        <img src="%PUBLIC_URL%/favicon.ico" alt="chicken_image" />
+        <img width={"500px"} height={"300px"} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJp3jJn3aVsp7AsUymC5zGlR7dVNY5AMOxCw&s" alt="chicken_image" />
     </div>
   );
 };
